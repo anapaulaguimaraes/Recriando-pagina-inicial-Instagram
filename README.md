@@ -1,9 +1,8 @@
 ## Recriando a página inicial do Instagram
 
-Nesse projeto o desafio era recriar a página inicial do Instagram.
+Recriando a página inicial do Instagram, utilizando:
 
-Confira como ficou. 😊
-
-
+* HTML5
+* CSS3
 
 <img src="img/imagem-projeto-instagram.png" alt="projeto instagram">
